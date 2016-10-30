@@ -2,7 +2,7 @@ package com.github.kurkov.creational.factorymethod.sample;
 
 import org.junit.Test;
 
-import static com.github.kurkov.creational.factorymethod.sample.MainProgram.createDeveloperBySpeciality;
+import static com.github.kurkov.creational.factorymethod.sample.MainProgram.createDeveloperFactoryBySpeciality;
 import static org.junit.Assert.assertEquals;
 
 /**
@@ -12,7 +12,7 @@ public class MainProgramTest {
 
     @Test
     public void createJavaDeveloper() throws Exception {
-        DeveloperFactory developerFactory = createDeveloperBySpeciality("java");
+        DeveloperFactory developerFactory = createDeveloperFactoryBySpeciality("java");
         Developer developer = developerFactory.createDeveloper();
         assertEquals(JavaDeveloper.class, developer.getClass());
         developer.writeCode();
@@ -20,7 +20,7 @@ public class MainProgramTest {
 
     @Test
     public void createCppDeveloper() throws Exception {
-        DeveloperFactory developerFactory = createDeveloperBySpeciality("c++");
+        DeveloperFactory developerFactory = createDeveloperFactoryBySpeciality("c++");
         Developer developer = developerFactory.createDeveloper();
         assertEquals(CppDeveloper.class, developer.getClass());
         developer.writeCode();
@@ -28,7 +28,7 @@ public class MainProgramTest {
 
     @Test
     public void createPhpDeveloper() throws Exception {
-        DeveloperFactory developerFactory = createDeveloperBySpeciality("php");
+        DeveloperFactory developerFactory = createDeveloperFactoryBySpeciality("php");
         Developer developer = developerFactory.createDeveloper();
         assertEquals(PhpDeveloper.class, developer.getClass());
         developer.writeCode();

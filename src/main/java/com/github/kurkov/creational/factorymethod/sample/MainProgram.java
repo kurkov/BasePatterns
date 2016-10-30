@@ -6,13 +6,13 @@ package com.github.kurkov.creational.factorymethod.sample;
 public class MainProgram {
 
     public static void main(String[] args) {
-        DeveloperFactory developerFactory = createDeveloperBySpeciality("php");
+        DeveloperFactory developerFactory = createDeveloperFactoryBySpeciality("php");
         Developer developer = developerFactory.createDeveloper();
 
         developer.writeCode();
     }
 
-    static DeveloperFactory createDeveloperBySpeciality(String speciality) {
+    static DeveloperFactory createDeveloperFactoryBySpeciality(String speciality) {
         if (speciality.equalsIgnoreCase("java")) {
             return new JavaDeveloperFactory();
         } else if (speciality.equalsIgnoreCase("c++")) {
