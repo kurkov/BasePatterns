@@ -9,4 +9,8 @@ public class ObjectPart {
     public ObjectPart(String objectPartData) {
         this.objectPartData = objectPartData;
     }
+
+    public String getData() {
+        return objectPartData;
+    }
 }

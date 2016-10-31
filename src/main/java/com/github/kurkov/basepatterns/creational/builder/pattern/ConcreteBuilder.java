@@ -3,7 +3,7 @@ package com.github.kurkov.basepatterns.creational.builder.pattern;
 /**
  * @author Aleksey Kurkov. Created on 31.10.2016
  */
-public class ConcreteBuilder extends Builder {
+public class ConcreteBuilder implements Builder {
 
     private ObjectPart objectPart;
 

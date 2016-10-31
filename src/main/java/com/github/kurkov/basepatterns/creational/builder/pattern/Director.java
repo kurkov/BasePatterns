@@ -6,10 +6,13 @@ package com.github.kurkov.basepatterns.creational.builder.pattern;
 public class Director {
     private Builder builder;
 
+    public Director(Builder builder) {
+        this.builder = builder;
+    }
+
     public ObjectPart construct() {
         builder.buildPart();
-        ObjectPart objectPart = builder.getResult();
 
-        return objectPart;
+        return builder.getResult();
     }
 }
