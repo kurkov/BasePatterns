@@ -19,7 +19,7 @@
             </plugin>
         </plugins>
     </build>
-    <name>Maven BasePatterns project</name>
+    <value>Maven BasePatterns project</value>
     <url>https://github.com/kurkov/BasePatterns</url>
 
     <dependencies>
