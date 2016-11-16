@@ -1,8 +1,8 @@
-package com.github.kurkov.basepatterns.creational.factorymethod.sample;
+package com.github.kurkov.basepatterns.creational.factorymethod.sample1;
 
 import org.junit.Test;
 
-import static com.github.kurkov.basepatterns.creational.factorymethod.sample.MainProgram.createDeveloperFactoryBySpeciality;
+import static com.github.kurkov.basepatterns.creational.factorymethod.sample1.MainProgram.createDeveloperFactoryBySpeciality;
 import static org.junit.Assert.assertEquals;
 
 /**

@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.creational.factorymethod.sample;
+package com.github.kurkov.basepatterns.creational.factorymethod.sample1;
 
 import org.junit.Test;
 
