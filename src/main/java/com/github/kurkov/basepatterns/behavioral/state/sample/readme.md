@@ -1,3 +1,3 @@
-**Class diagram (pattern "State"):**
+**Sample class diagram:**
 
 ![diagram_state.png](diagram_state.png)
