@@ -1,6 +1,6 @@
-package com.github.kurkov.basepatterns.creational.abstractfactory.sample.banking;
+package com.github.kurkov.basepatterns.creational.abstractfactory.sample1.banking;
 
-import com.github.kurkov.basepatterns.creational.abstractfactory.sample.Developer;
+import com.github.kurkov.basepatterns.creational.abstractfactory.sample1.Developer;
 
 /**
  * @author Aleksey Kurkov. Created on 30.10.2016
