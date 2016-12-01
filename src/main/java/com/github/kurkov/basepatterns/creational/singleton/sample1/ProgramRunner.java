@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.creational.singleton.sample;
+package com.github.kurkov.basepatterns.creational.singleton.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 30.10.2016
