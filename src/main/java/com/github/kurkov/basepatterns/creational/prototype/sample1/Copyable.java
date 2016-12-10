@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.creational.prototype.sample;
+package com.github.kurkov.basepatterns.creational.prototype.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 31.10.2016

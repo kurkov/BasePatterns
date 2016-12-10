@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.creational.prototype.sample;
+package com.github.kurkov.basepatterns.creational.prototype.sample1;
 
 import org.junit.Test;
 
