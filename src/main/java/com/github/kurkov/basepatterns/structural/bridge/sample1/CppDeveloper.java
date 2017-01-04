@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.structural.bridge.sample;
+package com.github.kurkov.basepatterns.structural.bridge.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 03.11.2016
