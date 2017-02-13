@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.structural.composite.sample;
+package com.github.kurkov.basepatterns.structural.composite.sample1;
 
 import java.util.ArrayList;
 import java.util.List;
