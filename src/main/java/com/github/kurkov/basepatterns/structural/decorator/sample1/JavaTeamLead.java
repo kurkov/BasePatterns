@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.structural.decorator.sample;
+package com.github.kurkov.basepatterns.structural.decorator.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 05.11.2016
