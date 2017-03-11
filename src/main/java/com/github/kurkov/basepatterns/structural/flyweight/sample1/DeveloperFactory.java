@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.structural.flyweight.sample;
+package com.github.kurkov.basepatterns.structural.flyweight.sample1;
 
 import java.util.HashMap;
 import java.util.Map;
