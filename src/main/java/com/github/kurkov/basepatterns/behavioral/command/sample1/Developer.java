@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.command.sample;
+package com.github.kurkov.basepatterns.behavioral.command.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 11.11.2016
