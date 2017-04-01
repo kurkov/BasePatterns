@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.iterator.sample;
+package com.github.kurkov.basepatterns.behavioral.iterator.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 16.11.2016
