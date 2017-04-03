@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.mediator.sample;
+package com.github.kurkov.basepatterns.behavioral.mediator.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 14.11.2016
