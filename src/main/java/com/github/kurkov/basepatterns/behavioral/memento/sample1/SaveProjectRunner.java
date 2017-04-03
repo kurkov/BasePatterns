@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.memento.sample;
+package com.github.kurkov.basepatterns.behavioral.memento.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 18.11.2016

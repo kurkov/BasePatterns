@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.memento.sample;
+package com.github.kurkov.basepatterns.behavioral.memento.sample1;
 
 import java.util.Date;
 
