@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.observer.sample;
+package com.github.kurkov.basepatterns.behavioral.observer.sample1;
 
 /**
  * @author Aleksey Kurkov. Created on 19.11.2016

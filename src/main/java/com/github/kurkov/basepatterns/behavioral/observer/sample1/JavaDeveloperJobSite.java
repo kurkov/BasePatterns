@@ -1,4 +1,4 @@
-package com.github.kurkov.basepatterns.behavioral.observer.sample;
+package com.github.kurkov.basepatterns.behavioral.observer.sample1;
 
 import java.util.ArrayList;
 import java.util.List;
